@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.12.12)  23 MAR 2020 09:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.12.12)  26 MAR 2020 14:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -856,15 +856,15 @@ ABD: EveryShipout initializing macros
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(59.74988pt, 478.00812pt, 59.74988pt)
-* v-part:(T,H,B)=(67.60269pt, 676.04005pt, 101.4041pt)
+* h-part:(L,W,R)=(41.82536pt, 513.85713pt, 41.82538pt)
+* v-part:(T,H,B)=(47.32242pt, 726.7408pt, 70.98363pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=478.00812pt
-* \textheight=676.04005pt
-* \oddsidemargin=-12.52011pt
-* \evensidemargin=-12.52011pt
-* \topmargin=-41.6673pt
+* \textwidth=513.85713pt
+* \textheight=726.7408pt
+* \oddsidemargin=-30.44463pt
+* \evensidemargin=-30.44463pt
+* \topmargin=-61.94757pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -943,7 +943,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
 
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 54.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 70.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 54.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -955,23 +955,23 @@ Package microtype Info: Loading generic settings for font family
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 197.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 185.
  [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 357.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 357.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
 
 (./CV_KEVIN_YX_WANG_long.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 357.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 357.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
 Package rerunfilecheck Info: File `CV_KEVIN_YX_WANG_long.out' has not changed.
-(rerunfilecheck)             Checksum: 5F6E0687DDF0BCE66A443121782B87FA;739.
+(rerunfilecheck)             Checksum: E24A4EAAD9DDB607EF4684B42EE3CAEA;641.
  ) 
 Here is how much of TeX's memory you used:
- 28477 strings out of 492995
- 529201 string characters out of 6132703
- 593605 words of memory out of 5000000
- 31598 multiletter control sequences out of 15000+600000
- 59142 words of font info for 77 fonts, out of 8000000 for 9000
+ 28471 strings out of 492995
+ 529129 string characters out of 6132703
+ 594608 words of memory out of 5000000
+ 31597 multiletter control sequences out of 15000+600000
+ 58955 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,58p,10373b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
@@ -984,10 +984,10 @@ msso12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsso17.pf
 b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/lo
 cal/texlive/2017/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texliv
 e/2017/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on CV_KEVIN_YX_WANG_long.pdf (3 pages, 223379 bytes).
+Output written on CV_KEVIN_YX_WANG_long.pdf (3 pages, 223830 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 19533 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 19525 words of extra memory for PDF output out of 20736 (max. 10000000)
 
